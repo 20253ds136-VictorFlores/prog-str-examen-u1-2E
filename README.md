@@ -16,7 +16,11 @@ Para provocar conflicto vas a editar la **misma línea** en ambas ramas.
 - **Edita SOLO esta línea**. No la copies, no la muevas, no la dupliques.
 
 **LÍNEA OBJETIVO (NO BORRAR):**
-`CODIGO_CONTROL: merge`
+
+`CODIGO_CONTROL: RESUELTO (develop + merge)`
+
+`CODIGO_CONTROL: develop`
+>>>>>>> Victor_Flores/develop
 
 ## Pasos obligatorios
 1) Clona el repo y ábrelo en IntelliJ.
